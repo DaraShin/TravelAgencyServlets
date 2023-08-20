@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src/main/java"/>
+	<classpathentry kind="src" path=".apt_generated">
+		<attributes>
+			<attribute name="optional" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-16">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="E:/programs/java_libraries/Java Persistence API/eclipselink.jar"/>
+	<classpathentry kind="lib" path="E:/programs/java_libraries/log4j2/log4j-api-2.12.4.jar"/>
+	<classpathentry kind="lib" path="E:/programs/java_libraries/log4j2/log4j-core-2.12.4.jar"/>
+	<classpathentry kind="lib" path="E:/programs/java_libraries/jdbc drivers/ojdbc11.jar"/>
+	<classpathentry kind="lib" path="E:/programs/java_libraries/lombok/lombok.jar"/>
+	<classpathentry kind="lib" path="E:/programs/apache-tomcat-10.1.4/lib/servlet-api.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/eclipselink">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+			<attribute name="owner.project.facets" value="jpt.jpa"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
