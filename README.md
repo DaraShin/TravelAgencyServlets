@@ -3,6 +3,7 @@
 Реализовано с использованием сервлетов, JSP и Java Persistence API.
 
 Реализованы следующие функции:
+* Доступ к приложению 3 типов пользователей: гость, обычный пользователь, администратор.
 * Просмотр туров с фильтрацией по типу тура и выбором горящих туров.
 * Заказ тура обычным пользователем.
 * Просмотр пользователем списка своих заказов.
@@ -10,7 +11,9 @@
 * Администратор может установить скидку постоянным клиентам.
 * Администратор может просмотреть заказы всех пользователей.
 
-![image](https://github.com/DaraShin/TravelAgencyServlets/assets/78850433/610010c4-8beb-4175-91e9-bf70b2cad52a)
-![image](https://github.com/DaraShin/TravelAgencyServlets/assets/78850433/ac557744-6e46-4e12-8e9c-adb654c9b7b2)
+![image](https://github.com/DaraShin/TravelAgencyServlets/assets/78850433/dd892513-99f9-4b1c-bdc7-a2a2b9765c8b)
+
+![image](https://github.com/DaraShin/TravelAgencyServlets/assets/78850433/0fc47bb7-34e8-4263-b746-48faf7322a3e)
+
 
 
